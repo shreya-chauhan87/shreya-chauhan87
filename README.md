@@ -42,20 +42,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-1. **E-commerce Product Dashboard** (Vue.js + Nuxt)
-   - Built interactive product filtering system
-   - Implemented responsive design with Tailwind CSS
-   - [Live Demo](#) | [Code Samples](#)
-
-2. **Task Management App** (React + Context API)
-   - Created drag-and-drop task organization
-   - Developed custom animations with Framer Motion
-   - [Live Demo](#) | [GitHub Repo](#)
-
----
-
 ### 📊 Development Activity
 
 <p align="center">
